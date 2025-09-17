@@ -19,10 +19,6 @@
     "yinghua": {
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
       "name": "樱花资源"
-    },
-    "ikun": {
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "name": "iKun资源"
     }
   }
 }
