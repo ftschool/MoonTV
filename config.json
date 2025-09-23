@@ -11,10 +11,6 @@
       "name": "非凡影视",
       "detail": "http://ffzy5.tv"
     },
-    "heimuer": {
-      "api": "https://heimuer.ggff.net/api.php/tvbox",
-      "name": "Black Fungus"
-    },
     "pbpan": {
       "api": "https://dh.ha.cn/api.php/provide/vod",
       "name": "瀑布盘",
