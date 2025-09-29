@@ -11,6 +11,11 @@
       "name": "非凡影视",
       "detail": "http://ffzy5.tv"
     },
+    "myzy": {
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "name": "猫眼资源",
+      "detail": "https://www.maoyanzy.com"
+    },
     "pbpan": {
       "api": "https://dh.ha.cn/api.php/provide/vod",
       "name": "瀑布盘",
