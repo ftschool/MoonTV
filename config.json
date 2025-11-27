@@ -6,6 +6,11 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
+    "ysxq": {
+      "api": "https://www.ysxq.cc/api.php/provide/vod",
+      "name": "播剧网",
+      "detail": "https://www.ysxq.cc"
+    },
     "ffzy": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
       "name": "非凡影视",
