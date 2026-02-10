@@ -6,11 +6,6 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
-    "wsyzyw": {
-      "api": "https://api.wsyzy.net/api.php/provide/vod",
-      "name": "无水印资源网",
-      "detail": ""
-    },
     "ysxq": {
       "api": "https://www.ysxq.cc/api.php/provide/vod",
       "name": "播剧网",
